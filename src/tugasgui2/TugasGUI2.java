@@ -51,7 +51,7 @@ public class TugasGUI2 extends Application {
 
         Scene scene = new Scene(gridPane);
 
-        stage.setTitle("Grid Pane Example");
+        stage.setTitle("Tugas GUI - Syahputra Rahman Ramadhan");
 
         stage.setScene(scene);
 
